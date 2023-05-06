@@ -3,8 +3,8 @@ A simple chrome Extension to analyse tweets. Sentiment is extracted using NLTK V
 
 This repository contains a browser extension that allows users to analyze the sentiment of tweets on Twitter. The extension uses a pre-trained sentiment analysis model to classify the sentiment of tweets as positive, negative, or neutral. An emoji is added to the tweet header using JS through the extension. Here is a snippet showing how the extension works.
 
-<img src="https://user-images.githubusercontent.com/83116414/225064479-53442b93-1d9b-4107-bed1-be0f4712a396.png" alt="image1" width="400" height="300">
-<img src="https://user-images.githubusercontent.com/83116414/225064605-358a611b-0f77-442c-8138-9c48e6e06d0d.png" alt="image2" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/83116414/225064479-53442b93-1d9b-4107-bed1-be0f4712a396.png" alt="image1" width="800" height="300">
+<img src="https://user-images.githubusercontent.com/83116414/225064605-358a611b-0f77-442c-8138-9c48e6e06d0d.png" alt="image2" width="800" height="300">
 
 ## Features
 
